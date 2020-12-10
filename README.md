@@ -1,6 +1,6 @@
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is Sergey and I'm a Data Scientist living in Moscow. ![visitors](https://gpvc.arturio.dev/slgero)   
+My name is Sergey and I'm a Data Scientist living in Moscow.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
 

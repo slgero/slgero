@@ -4,7 +4,6 @@ My name is Sergey and I'm a Data Scientist living in Tallinn 🌆
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
 
-- 🔭 I’m currently working in <img src="https://hsto.org/getpro/moikrug/uploads/company/100/006/912/8/logo/9bbd356411a0c3a48ac43b1ecfbfb527.png" width="17px"> [3commas](https://3commas.io/)
 - 🤔 I am interested in NLP and trading
 - 💬 How to reach me: [Telegram](https://t.me/slgero), [LinkedIn](https://www.linkedin.com/in/sergey-savvov/)
 - ⚡ Fun fact: I have two dogs: a husky and a samoyed
